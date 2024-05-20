@@ -1,6 +1,8 @@
 # Twitter-Sentiment-Analysis
 
 Part 1: Data cleaning
+
+
 Part 2: EDA, Data visualisation
 Part 3: Zipf’s Law, Data visualisation
 Part 4: Feature extraction (count vectorizer), N-gram, confusion matrix
